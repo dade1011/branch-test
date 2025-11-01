@@ -2,5 +2,5 @@ first edition
 second edition
 third edtion
 issue resolved
-hot fix
+hotfix team's solution
 
